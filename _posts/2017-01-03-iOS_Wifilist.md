@@ -12,8 +12,8 @@ tag: 游戏
 
 ### OP动画
 
-　<video width="500" height="800" controls>
-    <embed src="P5.swf" width="500" height="800">
+　<video width="800" height="500" controls>
+    <embed src="P5.Mp4" width="800" height="500">
 </video>
 
 
