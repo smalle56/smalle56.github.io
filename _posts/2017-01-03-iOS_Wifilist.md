@@ -13,7 +13,7 @@ tag: 游戏
 ### OP动画
 
 <video width="800" height="500">
-<source src="../images/P5.Mp4" type="video/mp4;"></source>
+<source src="../../images/P5.Mp4" type="video/mp4;"></source>
 </video>
 
 
