@@ -12,9 +12,9 @@ tag: 游戏
 
 ### OP动画
 
-　<video width="800" height="500" controls>
-    <embed src="/images/P5.Mp4" width="800" height="500">
-</video>
+　<P>
+　　<embed SRC="P5.Mp4" autostart=false loop=false width=800 height=500>
+</P>
 
 
 ### 剧情简介
