@@ -12,9 +12,8 @@ tag: 游戏
 
 ### OP动画
 
-　　<video width="320" height="240" controls="controls">
- 
-  <source src="/images/P5.mp4" type="video/mp4">
+　<video width="500" height="800" controls>
+    <embed src="P5.swf" width="500" height="800">
 </video>
 
 
@@ -36,6 +35,6 @@ tag: 游戏
 　　
 
 <br>
-转载请注明：[QJC的博客](http://baixin) » [Wifi 定位原理及 iOS Wifi 列表获取](http://baixin.io/2017/01/iOS_Wifilist/)  
+转载请注明：[QJC的博客](http://baixin) » [P5](http://baixin.io/2017/01/iOS_Wifilist/)  
 
 
