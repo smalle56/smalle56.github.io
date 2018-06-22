@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Wifi 定位原理及 iOS Wifi 列表获取
+title: 女神异闻录
 date: 2017-01-03 
-tag: iOS
+tag: 游戏
 ---
    <div align="center">
-	<img src="/images/P1.jpg" height="1200" width="500">  
+	<img src="/images/P1.jpg" height="500" width="800">  
 </div> 
 　　《女神异闻录5》（ペルソナ5或Persona5,简称：P5）是由ATLUS开发制作的RPG《女神异闻录》系列的第五部正统续作，已于2016年9月15日发售。
 本作描写了主人公与同伴们白天作为学生生活，夜晚则运用名为“Persona”的特殊力量，化身为“窃取心灵的怪盗”，向社会中扭曲腐坏的大人们发起挑战的都市浪漫物语。
@@ -25,13 +25,13 @@ tag: iOS
 
 ### 游戏CG
 <div align="center">
-	<img src="/images/P2.jpg" height="1809" width="1130">  
+	<img src="/images/P2.jpg" height="500" width="800">  
 </div> 
 <div align="center">
-	<img src="/images/P3.jpg" height="999" width="625">  
+	<img src="/images/P3.jpg" height="500" width="800">  
 </div> 
 <div align="center">
-	<img src="/images/P4.jpg" height="1600" width="900">  
+	<img src="/images/P4.jpg" height="500" width="800">  
 </div> 
 　　
 
